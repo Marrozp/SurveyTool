@@ -12,3 +12,4 @@ function InjectSurvey() {
   rectangle.style.zIndex = "1000";
   document.body.appendChild(rectangle);
 }
+InjectSurvey();
