@@ -1,6 +1,6 @@
 function InjectSurvey() {
   console.log("Survey code initiated");
-  const rectangle = document.createElement("div");
+  var rectangle = document.createElement("div");
   rectangle.id = "survey";
   rectangle.text = "Random survey rectangle";
   rectangle.style.backgroundColor = "green";
