@@ -6,5 +6,6 @@ rectangle.style.height = "100px";
 rectangle.style.width = "200px";
 rectangle.style.position = "sticky";
 rectangle.style.bottom = "0px";
-rectangle.style.right = "150px";
+rectangle.style.left = "75%";
+rectangle.style.zIndex = "1000";
 document.body.appendChild(rectangle);
