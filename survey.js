@@ -1,3 +1,4 @@
+console.log("Survey code initiated");
 const rectangle = document.createElement("div");
 rectangle.id = "survey";
 rectangle.text = "Random survey rectangle";
